@@ -125,6 +125,13 @@ celerybeat.pid
 .env
 .venv
 env/
+images_train/
+images1/
+images2/
+images3/
+labels/
+cropped_dir1/
+cropped_dir2/
 venv/
 ENV/
 env.bak/
