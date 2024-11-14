@@ -1,0 +1,8 @@
+# electric_meter.yaml
+path: C:/Users/Sasa/Desktop/data
+train: C:/Users/Sasa/Desktop/data/images_train/train
+val: C:/Users/Sasa/Desktop/data/images_train/val
+test: C:/Users/Sasa/Desktop/data/images_train/test
+
+names:
+  0: tab
